@@ -106,3 +106,7 @@ dist
 
 /node_modules
 /servidor-api/node_modules
+
+
+!dist/css
+!dist/*.html
